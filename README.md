@@ -4,7 +4,7 @@ A progressive, four-phase client-server communication system built in Python, de
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements a command-execution system where a **client** sends Linux shell commands to a **server** over a TCP socket, and the server returns the output. The system evolves across four phases, starting from plaintext communication and ending with hybrid encryption backed by digital signatures and X.509 certificates.
 
